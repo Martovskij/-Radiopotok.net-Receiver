@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InetRadioReceiver", "InetRadioReceiver\InetRadioReceiver.csproj", "{5E021993-38C4-4E57-B03B-E093B01FB596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InetRadioReceiverTest", "InetRadioReceiverTest\InetRadioReceiverTest.csproj", "{76BE7EED-AE60-46F9-B26E-C55D4D3E2C4E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://martovskij.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = InetRadioReceiver\\InetRadioReceiver.csproj
+		SccProjectName1 = InetRadioReceiver
+		SccLocalPath1 = InetRadioReceiver
+		SccProjectUniqueName2 = InetRadioReceiverTest\\InetRadioReceiverTest.csproj
+		SccProjectName2 = InetRadioReceiverTest
+		SccLocalPath2 = InetRadioReceiverTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E021993-38C4-4E57-B03B-E093B01FB596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E021993-38C4-4E57-B03B-E093B01FB596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E021993-38C4-4E57-B03B-E093B01FB596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E021993-38C4-4E57-B03B-E093B01FB596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BE7EED-AE60-46F9-B26E-C55D4D3E2C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BE7EED-AE60-46F9-B26E-C55D4D3E2C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BE7EED-AE60-46F9-B26E-C55D4D3E2C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BE7EED-AE60-46F9-B26E-C55D4D3E2C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
