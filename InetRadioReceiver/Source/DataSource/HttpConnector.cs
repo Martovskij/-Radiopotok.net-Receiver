@@ -13,7 +13,6 @@ namespace InetRadioReceiver.Source.DataSource
     public class HttpConnector 
     {
         private static readonly ILog logger = LogManager.GetLogger(typeof(HttpConnector).ToString());
-       
         private String requestHost = "";
         private HttpWebRequest request = null;
         private HttpWebResponse responce = null;
